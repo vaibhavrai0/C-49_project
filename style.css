@@ -1,0 +1,21 @@
+body 
+{
+    background-color: #42f2f5;
+}
+
+.header 
+{
+    background-color: #6b34eb;
+
+    text-align: center;
+}
+
+.games
+{
+display: flex;
+
+flex-wrap: wrap;
+
+justify-content: space-evenly;
+
+}
